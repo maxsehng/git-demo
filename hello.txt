@@ -2,3 +2,4 @@ hello git!! first change
 hello git!! second change
 hello git!! third change   master test
 hot-fix    repaire code!!!!  hot-fix test
+chaged by githubEdit
